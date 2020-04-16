@@ -11,6 +11,8 @@
   "dependencies": {
     "bad-words": "^3.0.3",
     "express": "^4.17.1",
+    "kind-of": "^6.0.3",
+    "minimist": "^1.2.5",
     "nodemon": "^1.19.1",
     "socket.io": "^2.2.0"
   },
